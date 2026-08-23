@@ -22,7 +22,7 @@ _This pack includes the following community-made mods from talented modders:_
     <li>Corrects a bug that caused the sides of clouds to occasionally be randomly colored</li>
     <li>Corrects a bug that caused the sky to render incorrectly under certain conditions</li>
   </ul>
-  <br><br> 
+  <br><br><hr>
 </details>
 
 <details>
@@ -36,7 +36,7 @@ _This pack includes the following community-made mods from talented modders:_
     <li>Corrects an error that caused map items to generate in stronghold chests that would crash the game upon interacting with them</li>
     <li>Corrects an error that allowed zombies to break doors on easy and normal difficulties</li>
   </ul>
-  <br><br>
+  <br><br><hr>
 </details>
 
 # Legal
