@@ -4,10 +4,42 @@
 
 > *The flagship optimization/tweaks pack for Minecraft: New Nintendo 3DS Edition.*
 
-A small collection of bugfixes and tweaks to make 1.19.9 for minecraft: New nintendo 3DS Edition more enjoyable.
+# Mods
+_This pack includes the following community-made mods from talented modders:_
+<details>
+  <summary><b>C-MPS</b></summary>
+  
+  ## Cracko298's Modded Performance Shaders (C-MPS)
+  https://github.com/Cracko298/C-MPS<br>
+  Developed by Cracko298<br>
+  <i>A shader pack that significantly reduces the size and performance footprint of the original game's textures.</i><br><br>
+  <h3>Features</h3>
+  <ul>
+    <li>Boosts frame rate to a consistent 60 FPS</li>
+    <li>Corrects a bug that caused the sides of clouds to occasionally be randomly colored</li>
+    <li>Corrects a bug that caused the sky to render incorrectly under certain conditions</li>
+  </ul>
+  <br><br> 
+</details>
 
-# Features:
+<details>
+  <summary><b>JSON Fixes</b></summary>
+  
+  ## JSON Fixes
+  Developed by Zexlo<br>
+  <i>Various edits and fixes to JSON files.</i><br><br>
+  <h3>Features</h3>
+  <ul>
+    <li>Corrects an error that caused map items to generate in stronghold chests that would crash the game upon interacting with them</li>
+    <li>Corrects an error that allowed zombies to break doors on easy and normal difficulties</li>
+  </ul>
+  <br><br>
+</details>
 
-- Optimized shaders for improved performance and responsiveness
-- Fixed crash-inducing map from spawning in library chests
-- Fixed zombies spawning with the ability to break down doors on easy/normal difficulty
+# Legal
+
+This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this pack or modified versions of this pack without explicit permission.
+
+OptiPack © 2026 The OptiPack Authors
+
+All Rights Reserved.
