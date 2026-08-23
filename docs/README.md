@@ -10,7 +10,7 @@
 # Mods
 _This pack includes the following community-made mods from talented modders:_
 <details>
-  <summary><b>C-MPS</b> <i>Click to expand...</i></summary>
+  <summary><b>C-MPS</b> <i>Click to expand/hide...</i></summary>
   
   ## Cracko298's Modded Performance Shaders (C-MPS)
   https://github.com/Cracko298/C-MPS<br>
@@ -26,7 +26,7 @@ _This pack includes the following community-made mods from talented modders:_
 </details>
 
 <details>
-  <summary><b>JSON Fixes</b> <i>Click to expand...</i></summary>
+  <summary><b>JSON Fixes</b> <i>Click to expand/hide...</i></summary>
   
   ## JSON Fixes
   Developed by Zexlo<br>
