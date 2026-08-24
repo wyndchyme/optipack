@@ -1,0 +1,5 @@
+{
+    "Lua.workspace.library": [
+        "${workspaceFolder}/../LunaCore/api_docs.lua",
+    ]
+}

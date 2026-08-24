@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/wyndchyme/optipack/refs/heads/main/docs/optipack_large.png" width="400">
+<img src="https://raw.githubusercontent.com/wyndchyme/optipack/refs/heads/main/docs/img/optipack_large.png" width="400">
 <div>
 <img alt="GitHub Release" src="https://img.shields.io/github/v/release/wyndchyme/optipack">
 <a href="https://minecraft.wiki/w/New_Nintendo_3DS_Edition_1.9.19"><img src="https://img.shields.io/badge/for-1.9.19-skyblue"></a>
@@ -10,11 +10,34 @@
 # Mods
 _This pack includes the following community-made mods from talented modders:_
 <details>
+<summary><b>LunaCore</b> <i>Click to expand/hide...</i></summary>
+  
+  ## LunaCore
+  https://github.com/STBrian/LunaCore<br>
+  Developed by [STBUniverse](https://github.com/STBrian)<br>
+  <i>A lightweight Lua script loader utilizing CTRPluginFramework.</i> 0.20.0<br><br>
+  <h3>Features</h3>
+  <ul>
+  <li>Adds a plugin menu for mod configuration and developer tools accessible by pressing <code>SELECT</code>.</li>
+  </ul>
+  <br><br><hr>
+</details>
+
+<details>
+<summary><b>LunaCoreAPI</b> <i>Click to expand/hide...</i></summary>
+  
+  ## LunaCoreAPI
+  https://github.com/STBrian/LunaCoreAPI<br>
+  Developed by [STBUniverse](https://github.com/STBrian)<br>
+  <i>A modding library containing utilities that expand LunaCore's functionality.</i> 0.3.0<br><br><hr>
+</details>
+
+<details>
   <summary><b>C-MPS</b> <i>Click to expand/hide...</i></summary>
   
   ## Cracko298's Modded Performance Shaders (C-MPS)
   https://github.com/Cracko298/C-MPS<br>
-  Developed by Cracko298<br>
+  Developed by [Cracko298](https://github.com/Cracko298)<br>
   <i>A shader pack that significantly reduces the size and performance footprint of the original game's textures.</i><br><br>
   <h3>Features</h3>
   <ul>
@@ -29,7 +52,7 @@ _This pack includes the following community-made mods from talented modders:_
   <summary><b>JSON Fixes</b> <i>Click to expand/hide...</i></summary>
   
   ## JSON Fixes
-  Developed by Zexlo<br>
+  Contributed by [Zexlo](https://github.com/Zexlo)<br>
   <i>Various edits and fixes to JSON files.</i><br><br>
   <h3>Features</h3>
   <ul>
@@ -37,7 +60,7 @@ _This pack includes the following community-made mods from talented modders:_
     <li>Corrects an error that allowed zombies to break doors on easy and normal difficulties</li>
   </ul>
   <br><br><hr>
-</details>
+</details><br><br>
 
 # Legal
 
