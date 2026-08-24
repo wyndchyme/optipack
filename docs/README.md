@@ -62,6 +62,24 @@ _This pack includes the following community-made mods from talented modders:_
   <br><br><hr>
 </details><br><br>
 
+# Personnel
+
+## Modders
+<i>Contributors to OptiPack.</i>
+<ul>
+<li>STBUniverse</li>
+<li>Cracko298</li>
+<li>Zexlo</li>
+<li>wyndchyme</li>
+</ul>
+
+## Thanks To
+<i>Those who provided knowledge for OptiPack and its foundational mods.</i>
+<ul>
+<li>rairai6895</li>
+</ul>
+<br><br>
+
 # Legal
 
 This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this pack or modified versions of this pack without explicit permission.
