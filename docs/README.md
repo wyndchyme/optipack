@@ -38,7 +38,7 @@ _This pack includes the following community-made mods from talented modders:_
   ## Cracko298's Modded Performance Shaders (C-MPS)
   https://github.com/Cracko298/C-MPS<br>
   Developed by [Cracko298](https://github.com/Cracko298)<br>
-  <i>A shader pack that significantly reduces the size and performance footprint of the original game's textures.</i><br><br>
+  <i>A shader pack that significantly reduces the size and performance footprint of GPU Vertex Shaders, optimizing them for performance.</i><br><br>
   <h3>Features</h3>
   <ul>
     <li>Boosts frame rate to a consistent 60 FPS</li>
